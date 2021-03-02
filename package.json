@@ -1,21 +1,40 @@
 {
-    "name": "darktheme",
-    "displayName": "DarkTheme",
-    "description": "",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.53.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "SuperDark",
-                "uiTheme": "vs-dark",
-                "path": "./themes/SuperDark-color-theme.json"
-            }
-        ]
-    }
+  "name": "darktheme",
+  "displayName": "DarkTheme",
+  "publisher": "tontsa28",
+  "description": "You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.53.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tontsa28/vscode-darktheme"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "SuperDark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/SuperDark-color-theme.json"
+      }
+    ]
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tontsa28/vscode-darktheme/issues"
+  },
+  "homepage": "https://github.com/tontsa28/vscode-darktheme#readme",
+  "activationEvents": [
+    "*"
+  ]
 }
