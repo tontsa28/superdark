@@ -3,7 +3,8 @@
   "displayName": "SuperDark",
   "publisher": "tontsa28",
   "description": "Clean, dark theme for Visual Studio Code.",
-  "version": "0.0.4",
+  "icon": "superdark_logo_128x128.png",
+  "version": "0.0.5",
   "engines": {
     "vscode": "^1.53.0"
   },
