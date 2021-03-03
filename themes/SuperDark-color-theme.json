@@ -2,17 +2,19 @@
 	"name": "SuperDark",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#040311",
+		"editor.background": "#01081d",
 		"editor.foreground": "#eeffff",
 		"activityBarBadge.background": "#b6a408",
 		"sideBarTitle.foreground": "#bbbbbb",
-		"sideBar.background": "#01071a",
-		"activityBar.background": "#01071a",
+		"sideBar.background": "#010925",
+		"activityBar.background": "#010e2e",
 		"menubar.selectionBackground": "#1f5693",
 		"menubar.selectionForeground": "#eeffff",
-		"titleBar.activeBackground": "#01071a",
-		"tab.activeBackground": "#040311",
-		"tab.activeBorder": "#e7a301"
+		"titleBar.activeBackground": "#010e2e",
+		"tab.activeBackground": "#01081d",
+		"tab.activeBorder": "#e7a301",
+		"tab.inactiveBackground": "#010411",
+		"dropdown.background": "#010925"
 	},
 	"tokenColors": [
 		{
@@ -42,7 +44,7 @@
 				"constant.other.color"
 			],
 			"settings": {
-				"foreground": "#ffffff"
+				"foreground": "#b9b9b9"
 			}
 		},
 		{
@@ -142,7 +144,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#F78C6C"
+				"foreground": "#df7352"
 			}
 		},
 		{
@@ -157,7 +159,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#C3E88D"
+				"foreground": "#beee77"
 			}
 		},
 		{
@@ -173,7 +175,7 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#ddaa4c"
 			}
 		},
 		{

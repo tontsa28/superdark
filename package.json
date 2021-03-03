@@ -1,9 +1,9 @@
 {
-  "name": "darktheme",
-  "displayName": "DarkTheme",
+  "name": "superdark",
+  "displayName": "SuperDark",
   "publisher": "tontsa28",
-  "description": "You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:",
-  "version": "0.0.3",
+  "description": "Clean, dark theme for Visual Studio Code.",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.53.0"
   },
@@ -27,8 +27,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "darktheme",
+    "dark-theme",
+    "dark theme",
+    "super dark",
+    "dark",
+    "tontsa28",
+    "tontsa",
+    "theme"
+  ],
+  "author": "tontsa28",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/tontsa28/vscode-darktheme/issues"
