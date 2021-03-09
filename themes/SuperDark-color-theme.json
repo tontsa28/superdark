@@ -2,19 +2,20 @@
 	"name": "SuperDark",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#01081d",
+		"editor.background": "#0c0c22", //01081d
 		"editor.foreground": "#eeffff",
 		"activityBarBadge.background": "#b6a408",
 		"sideBarTitle.foreground": "#bbbbbb",
-		"sideBar.background": "#010925",
-		"activityBar.background": "#010e2e",
-		"menubar.selectionBackground": "#1f5693",
+		"sideBar.background": "#0d0d25", //010925
+		"activityBar.background": "#0f0f2c", //010e2e
+		"menubar.selectionBackground": "#1a4679",
 		"menubar.selectionForeground": "#eeffff",
-		"titleBar.activeBackground": "#010e2e",
-		"tab.activeBackground": "#01081d",
+		"titleBar.activeBackground": "#0f0f2c",
+		"tab.activeBackground": "#0c0c22", //01081d
 		"tab.activeBorder": "#e7a301",
-		"tab.inactiveBackground": "#010411",
-		"dropdown.background": "#010925"
+		"tab.inactiveBackground": "#070714",
+		"dropdown.background": "#0f0f2c",
+		"editorGroupHeader.tabsBackground": "#070714"
 	},
 	"tokenColors": [
 		{
