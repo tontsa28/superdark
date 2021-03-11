@@ -3,7 +3,7 @@
 	"type": "dark",
 	"colors": {
 		"editor.background": "#0c0c22", //01081d
-		"editor.foreground": "#eeffff",
+		"editor.foreground": "#d8d8d8",
 		"activityBarBadge.background": "#b6a408",
 		"sideBarTitle.foreground": "#bbbbbb",
 		"sideBar.background": "#0d0d25", //010925
@@ -15,7 +15,8 @@
 		"tab.activeBorder": "#e7a301",
 		"tab.inactiveBackground": "#070714",
 		"dropdown.background": "#0f0f2c",
-		"editorGroupHeader.tabsBackground": "#070714"
+		"editorGroupHeader.tabsBackground": "#070714",
+		"button.background": "#3e49a8"
 	},
 	"tokenColors": [
 		{
@@ -33,10 +34,11 @@
 			"name": "Variables",
 			"scope": [
 				"variable",
-				"string constant.other.placeholder"
+				"string constant.other.placeholder",
+				"variable.other.local"
 			],
 			"settings": {
-				"foreground": "#da7033"
+				"foreground": "#d33737"
 			}
 		},
 		{
@@ -45,7 +47,7 @@
 				"constant.other.color"
 			],
 			"settings": {
-				"foreground": "#b9b9b9"
+				"foreground": "#7e7e7e"
 			}
 		},
 		{
@@ -66,7 +68,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#a96bd3"
+				"foreground": "#b86ceb"
 			}
 		},
 		{
@@ -129,7 +131,7 @@
 				"string.other.link"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#d13c43"
 			}
 		},
 		{
