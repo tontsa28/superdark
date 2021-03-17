@@ -4,13 +4,13 @@
   "publisher": "tontsa28",
   "description": "Clean, dark theme for Visual Studio Code.",
   "icon": "superdark_logo_128x128.png",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "engines": {
     "vscode": "^1.53.0"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tontsa28/vscode-darktheme.git"
+    "url": "https://github.com/tontsa28/superdark.git"
   },
   "categories": [
     "Themes"
@@ -41,9 +41,9 @@
   "author": "tontsa28",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tontsa28/vscode-darktheme/issues"
+    "url": "https://github.com/tontsa28/superdark/issues"
   },
-  "homepage": "https://github.com/tontsa28/vscode-darktheme#readme",
+  "homepage": "https://github.com/tontsa28/superdark#readme",
   "activationEvents": [
     "*"
   ]

@@ -121,7 +121,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#a13b41"
 			}
 		},
 		{
@@ -147,7 +147,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#df7352"
+				"foreground": "#cf5343"
 			}
 		},
 		{
@@ -162,7 +162,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#beee77"
+				"foreground": "#99d441"
 			}
 		},
 		{
