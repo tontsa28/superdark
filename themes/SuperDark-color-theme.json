@@ -94,7 +94,7 @@
 		"statusBar.noFolderBackground": "#0E131B",
 		"statusBar.debuggingBackground": "#1b2636",
 		"statusBar.debuggingBorder": "#0E131Bd2",
-		"statusBar.debuggingForeground": "#0E131B",
+		"statusBar.debuggingForeground": "#6c8093c5",
 		"tab.activeBackground": "#0E131B",
 		"tab.activeForeground": "#c8d1df",
 		"tab.inactiveForeground": "#6c8093",
@@ -170,7 +170,7 @@
 				"invalid.illegal"
 			],
 			"settings": {
-				"foreground": "#b14154"
+				"foreground": "#b6b6b6"
 			}
 		},
 		{
