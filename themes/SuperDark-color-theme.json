@@ -30,7 +30,6 @@
 		"badge.background": "#0E131B",
 		"button.background": "#0E131B",
 		"debugToolBar.background": "#0E131Bd2",
-		"debugToolBar.border": "#b38098",
 		"dropdown.background": "#171f2c",
 		"dropdown.border": "#181A1F",
 		"editorError.foreground": "#e16ba0",
