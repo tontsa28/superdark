@@ -77,7 +77,7 @@
 		"list.inactiveSelectionForeground": "#c8d1df",
 		"list.errorForeground": "#ba7bcc",
 		"list.dropBackground": "#232f43",
-		"list.warningForeground": "#e8c37d", // Something needs to be done
+		"list.warningForeground": "#e8c37d",
 		"panel.border": "#232f43",
 		"peekViewEditor.matchHighlightBackground": "#171f2c",
 		"scrollbarSlider.background": "#232f43",
@@ -113,21 +113,23 @@
 
 		// Legacy theme colors
 
-		//"editor.background": "#0c0c22", //01081d
-		//"editor.foreground": "#d8d8d8",
-		//"activityBarBadge.background": "#b6a408",
-		//"sideBarTitle.foreground": "#bbbbbb",
-		//"sideBar.background": "#0d0d25", //010925
-		//"activityBar.background": "#0f0f2c", //010e2e
-		//"menubar.selectionBackground": "#1a4679",
-		//"menubar.selectionForeground": "#eeffff",
-		//"titleBar.activeBackground": "#0f0f2c",
-		//"tab.activeBackground": "#0c0c22", //01081d
-		//"tab.activeBorder": "#e7a301",
-		//"tab.inactiveBackground": "#070714",
-		//"dropdown.background": "#0f0f2c",
-		//"editorGroupHeader.tabsBackground": "#070714",
-		//"button.background": "#3e49a8"
+		/*
+		"editor.background": "#0c0c22", //01081d
+		"editor.foreground": "#d8d8d8",
+		"activityBarBadge.background": "#b6a408",
+		"sideBarTitle.foreground": "#bbbbbb",
+		"sideBar.background": "#0d0d25", //010925
+		"activityBar.background": "#0f0f2c", //010e2e
+		"menubar.selectionBackground": "#1a4679",
+		"menubar.selectionForeground": "#eeffff",
+		"titleBar.activeBackground": "#0f0f2c",
+		"tab.activeBackground": "#0c0c22", //01081d
+		"tab.activeBorder": "#e7a301",
+		"tab.inactiveBackground": "#070714",
+		"dropdown.background": "#0f0f2c",
+		"editorGroupHeader.tabsBackground": "#070714",
+		"button.background": "#3e49a8"
+		*/
 	},
 	"tokenColors": 
 	[
