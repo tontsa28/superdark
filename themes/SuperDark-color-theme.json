@@ -140,7 +140,6 @@
 				"punctuation.definition.comment"
 			],
 			"settings": {
-				"fontStyle": "italic",
 				"foreground": "#2d8a39"
 			}
 		},
